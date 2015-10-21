@@ -9,3 +9,8 @@
 项目地址：https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
 
 ![iamge of demo](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell/blob/master/Sceenshots/screenshot2.gif)
+
+2.nicklockwood/iRate
+一个提醒用户为app打分评论的库
+
+项目地址:https://github.com/nicklockwood/iRate
