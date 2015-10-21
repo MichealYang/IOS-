@@ -14,3 +14,7 @@
 一个提醒用户为app打分评论的库
 
 项目地址:https://github.com/nicklockwood/iRate
+
+3.michaeltyson/TPKeyboardAvoiding
+有文字输入时，能根据键盘是否弹出来调整自身显示内容的位置
+项目地址: https://github.com/michaeltyson/TPKeyboardAvoiding
